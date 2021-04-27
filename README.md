@@ -7,5 +7,5 @@ Par voie de conséquence, nous nous voyons contraints de déployer `code-car` su
 
 Voici:
 
-- [Le dépôt](https://github.com/pierremussier/code-car)
+- [Le dépôt](https://github.com/emmanuelbosquet/code-car)
 - [le jeu en lui-même](https://pierremussier.github.io/code-car)
